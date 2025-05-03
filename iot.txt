@@ -1,5 +1,7 @@
 Belajar Iot
 - belajar firebase
+  - firestore 
 - belajar kodular
+  - list view
 - belajar AdafruitIo
-- belajar github
+
