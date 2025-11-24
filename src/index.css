@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: samsung;
+  src: url(./assets/font/samsungsharpsans-medium.otf);
+}
+@font-face {
+  font-family: montserrat;
+  src: url(./assets/font/Montserrat-ExtraLight.ttf);
+}
+
+@theme {
+  --font-samsung: samsung;
+  --font-montserrat: montserrat;
+}
